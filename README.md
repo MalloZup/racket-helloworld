@@ -1,5 +1,17 @@
 Racket helloworld
 ==========
+## Init
+
+
+```                                                                                          
+raco pkg new helloworld
+
+```
+
+
+## Compile
+
+
 `raco exec main.rkt`
 
 Hi Racketlang!
